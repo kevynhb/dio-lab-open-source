@@ -7,7 +7,7 @@
 Desenvolvedor de Software com pouco mais de 4 anos de experiência e formando em Ciências da Computação pela UNEMAT. Atualmente, atuo como Desenvolvedor de Soluções Web no setor de educação a distância da universidade, utilizando PHP para criar e aprimorar sistemas eficientes que atendam a comunidade acadêmica.
 
 <details><summary>+ sobre min</summary>
-  Tenho me dedicado a aprofundar conhecimentos em Laravel, MVC, Clean Code e padrões de projeto, com o objetivo de me consolidar como especialista em desenvolvimento Back-end. Gosto de criar código Imperativo e Orientado a objeto (POO), além de estar sempre disposto a explorar e aprender novas tecnologias que agreguem valor aos projetos  da empresa e impulsionem minha carreira.
+Tenho me dedicado a aprofundar conhecimentos em Laravel, MVC, Clean Code e padrões de projeto, com o objetivo de me consolidar como especialista em desenvolvimento Back-end. Gosto de criar código Imperativo e Orientado a objeto (POO), além de estar sempre disposto a explorar e aprender novas tecnologias que agreguem valor aos projetos  da empresa e impulsionem minha carreira.
 </details>
 
 ### Conecte-se comigo
